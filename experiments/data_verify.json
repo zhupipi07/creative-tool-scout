@@ -1,0 +1,35 @@
+{
+  "vocab_size": 45,
+  "sample": 40,
+  "ok": 40,
+  "videos_with_url_in_comments": 9,
+  "url_rate": 22.5,
+  "videos_with_toolname_in_comments": 2,
+  "toolname_rate": 5.0,
+  "tool_hits": [
+    [
+      "Wind",
+      1
+    ],
+    [
+      "ikeno",
+      1
+    ]
+  ],
+  "hits_examples": [
+    {
+      "bvid": "BV1EZ4y1L7T6",
+      "title": "【教程】不学建模如何制作MMD模型？",
+      "tools": [
+        "Wind"
+      ]
+    },
+    {
+      "bvid": "BV1xC4y1278L",
+      "title": "萌新看了两三天教程后产出的第一个MMD",
+      "tools": [
+        "ikeno"
+      ]
+    }
+  ]
+}

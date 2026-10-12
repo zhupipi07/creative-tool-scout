@@ -1,0 +1,941 @@
+{
+  "summary": {
+    "total_videos": 412,
+    "api_calls": 19,
+    "has_credits_share": 0.6165,
+    "has_tool_field_share": 0.1408,
+    "has_url_share": 0.2257,
+    "view_min": 683,
+    "view_p25": 21734,
+    "view_median": 82255,
+    "view_p75": 317896,
+    "view_max": 34819909,
+    "distinct_tool_tokens": 114,
+    "tools_in_ge2_videos": 43,
+    "longtail_tools_ge2": 6
+  },
+  "view_distribution": [
+    {
+      "bucket": "< 1千",
+      "count": 2,
+      "share": 0.0049
+    },
+    {
+      "bucket": "1千-1万",
+      "count": 52,
+      "share": 0.1262
+    },
+    {
+      "bucket": "1万-10万",
+      "count": 167,
+      "share": 0.4053
+    },
+    {
+      "bucket": "10万-100万",
+      "count": 137,
+      "share": 0.3325
+    },
+    {
+      "bucket": ">=100万",
+      "count": 54,
+      "share": 0.1311
+    }
+  ],
+  "tools": [
+    {
+      "tool": "P.I.P",
+      "n_videos": 15,
+      "in_title_count": 0,
+      "only_in_desc": 15,
+      "median_view": 33598,
+      "max_view": 430437,
+      "min_view": 6205
+    },
+    {
+      "tool": "そぼろ",
+      "n_videos": 15,
+      "in_title_count": 0,
+      "only_in_desc": 15,
+      "median_view": 42421,
+      "max_view": 276670,
+      "min_view": 6205
+    },
+    {
+      "tool": "ikeno",
+      "n_videos": 14,
+      "in_title_count": 0,
+      "only_in_desc": 14,
+      "median_view": 50239,
+      "max_view": 276670,
+      "min_view": 6205
+    },
+    {
+      "tool": "針金P",
+      "n_videos": 11,
+      "in_title_count": 0,
+      "only_in_desc": 11,
+      "median_view": 17297,
+      "max_view": 223887,
+      "min_view": 6205
+    },
+    {
+      "tool": "Rui",
+      "n_videos": 10,
+      "in_title_count": 0,
+      "only_in_desc": 10,
+      "median_view": 42421,
+      "max_view": 148157,
+      "min_view": 6205
+    },
+    {
+      "tool": "三金络合物",
+      "n_videos": 10,
+      "in_title_count": 0,
+      "only_in_desc": 10,
+      "median_view": 64687,
+      "max_view": 223887,
+      "min_view": 6431
+    },
+    {
+      "tool": "ビームマンP",
+      "n_videos": 9,
+      "in_title_count": 0,
+      "only_in_desc": 9,
+      "median_view": 42421,
+      "max_view": 276670,
+      "min_view": 9788
+    },
+    {
+      "tool": "ましまし",
+      "n_videos": 7,
+      "in_title_count": 0,
+      "only_in_desc": 7,
+      "median_view": 17297,
+      "max_view": 186608,
+      "min_view": 6431
+    },
+    {
+      "tool": "RedialC",
+      "n_videos": 6,
+      "in_title_count": 0,
+      "only_in_desc": 6,
+      "median_view": 81423,
+      "max_view": 276670,
+      "min_view": 9788
+    },
+    {
+      "tool": "festivity",
+      "n_videos": 6,
+      "in_title_count": 0,
+      "only_in_desc": 6,
+      "median_view": 1542187,
+      "max_view": 5776117,
+      "min_view": 145692
+    },
+    {
+      "tool": "おたもん",
+      "n_videos": 6,
+      "in_title_count": 0,
+      "only_in_desc": 6,
+      "median_view": 33598,
+      "max_view": 64687,
+      "min_view": 6205
+    },
+    {
+      "tool": "データP",
+      "n_videos": 6,
+      "in_title_count": 0,
+      "only_in_desc": 6,
+      "median_view": 64687,
+      "max_view": 186608,
+      "min_view": 17297
+    },
+    {
+      "tool": "化身バレッタ",
+      "n_videos": 6,
+      "in_title_count": 0,
+      "only_in_desc": 6,
+      "median_view": 64687,
+      "max_view": 430437,
+      "min_view": 6431
+    },
+    {
+      "tool": "くろくまの人",
+      "n_videos": 5,
+      "in_title_count": 0,
+      "only_in_desc": 5,
+      "median_view": 15003,
+      "max_view": 64687,
+      "min_view": 7519
+    },
+    {
+      "tool": "ミーフォ茜",
+      "n_videos": 5,
+      "in_title_count": 0,
+      "only_in_desc": 5,
+      "median_view": 13275,
+      "max_view": 30153,
+      "min_view": 6205
+    },
+    {
+      "tool": "角砂糖",
+      "n_videos": 5,
+      "in_title_count": 0,
+      "only_in_desc": 5,
+      "median_view": 32804,
+      "max_view": 430437,
+      "min_view": 6431
+    },
+    {
+      "tool": "Elle",
+      "n_videos": 4,
+      "in_title_count": 0,
+      "only_in_desc": 4,
+      "median_view": 64687,
+      "max_view": 186608,
+      "min_view": 17297
+    },
+    {
+      "tool": "ARonisc",
+      "n_videos": 3,
+      "in_title_count": 0,
+      "only_in_desc": 3,
+      "median_view": 64687,
+      "max_view": 186608,
+      "min_view": 17297
+    },
+    {
+      "tool": "Caeru",
+      "n_videos": 3,
+      "in_title_count": 0,
+      "only_in_desc": 3,
+      "median_view": 30153,
+      "max_view": 33598,
+      "min_view": 14368
+    },
+    {
+      "tool": "less",
+      "n_videos": 3,
+      "in_title_count": 0,
+      "only_in_desc": 3,
+      "median_view": 30153,
+      "max_view": 33598,
+      "min_view": 14368
+    },
+    {
+      "tool": "びーと",
+      "n_videos": 3,
+      "in_title_count": 0,
+      "only_in_desc": 3,
+      "median_view": 30153,
+      "max_view": 33598,
+      "min_view": 14368
+    },
+    {
+      "tool": "鍵束",
+      "n_videos": 3,
+      "in_title_count": 0,
+      "only_in_desc": 3,
+      "median_view": 30153,
+      "max_view": 33598,
+      "min_view": 6431
+    },
+    {
+      "tool": "AllFinalXD",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 64687,
+      "max_view": 64687,
+      "min_view": 17297
+    },
+    {
+      "tool": "Blender",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 174655,
+      "max_view": 174655,
+      "min_view": 143412
+    },
+    {
+      "tool": "CheapLens",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 318885,
+      "max_view": 318885,
+      "min_view": 51647
+    },
+    {
+      "tool": "Festivity",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 524901,
+      "max_view": 524901,
+      "min_view": 187045
+    },
+    {
+      "tool": "Fries",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 882228,
+      "max_view": 882228,
+      "min_view": 145692
+    },
+    {
+      "tool": "HAToon2",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 430437,
+      "max_view": 430437,
+      "min_view": 318885
+    },
+    {
+      "tool": "MMD",
+      "n_videos": 2,
+      "in_title_count": 1,
+      "only_in_desc": 1,
+      "median_view": 143412,
+      "max_view": 143412,
+      "min_view": 15706
+    },
+    {
+      "tool": "MikuMikuDance",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 148157,
+      "max_view": 148157,
+      "min_view": 45551
+    },
+    {
+      "tool": "MikuPlay",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 1229,
+      "max_view": 1229,
+      "min_view": 683
+    },
+    {
+      "tool": "Seagull",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 882228,
+      "max_view": 882228,
+      "min_view": 145692
+    },
+    {
+      "tool": "Y_TIA",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 81423,
+      "max_view": 81423,
+      "min_view": 30153
+    },
+    {
+      "tool": "dillongoo",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 882228,
+      "max_view": 882228,
+      "min_view": 145692
+    },
+    {
+      "tool": "manashiku",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 1424081,
+      "max_view": 1424081,
+      "min_view": 50239
+    },
+    {
+      "tool": "tktk",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 276670,
+      "max_view": 276670,
+      "min_view": 6431
+    },
+    {
+      "tool": "あじ",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 64687,
+      "max_view": 64687,
+      "min_view": 17297
+    },
+    {
+      "tool": "サンドマン",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 15003,
+      "max_view": 15003,
+      "min_view": 11815
+    },
+    {
+      "tool": "一護牛乳",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 64687,
+      "max_view": 64687,
+      "min_view": 17297
+    },
+    {
+      "tool": "呉石",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 276670,
+      "max_view": 276670,
+      "min_view": 17297
+    },
+    {
+      "tool": "孤独的KIWI",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 81423,
+      "max_view": 81423,
+      "min_view": 30153
+    },
+    {
+      "tool": "山田淀子",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 64687,
+      "max_view": 64687,
+      "min_view": 17297
+    },
+    {
+      "tool": "電子幽靈EC",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 81423,
+      "max_view": 81423,
+      "min_view": 30153
+    }
+  ],
+  "longtail_tools": [
+    {
+      "tool": "針金P",
+      "n_videos": 11,
+      "in_title_count": 0,
+      "only_in_desc": 11,
+      "median_view": 17297,
+      "max_view": 223887,
+      "min_view": 6205
+    },
+    {
+      "tool": "ましまし",
+      "n_videos": 7,
+      "in_title_count": 0,
+      "only_in_desc": 7,
+      "median_view": 17297,
+      "max_view": 186608,
+      "min_view": 6431
+    },
+    {
+      "tool": "くろくまの人",
+      "n_videos": 5,
+      "in_title_count": 0,
+      "only_in_desc": 5,
+      "median_view": 15003,
+      "max_view": 64687,
+      "min_view": 7519
+    },
+    {
+      "tool": "ミーフォ茜",
+      "n_videos": 5,
+      "in_title_count": 0,
+      "only_in_desc": 5,
+      "median_view": 13275,
+      "max_view": 30153,
+      "min_view": 6205
+    },
+    {
+      "tool": "MikuPlay",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 1229,
+      "max_view": 1229,
+      "min_view": 683
+    },
+    {
+      "tool": "サンドマン",
+      "n_videos": 2,
+      "in_title_count": 0,
+      "only_in_desc": 2,
+      "median_view": 15003,
+      "max_view": 15003,
+      "min_view": 11815
+    }
+  ],
+  "domains": [
+    [
+      "bowlroll.net",
+      27
+    ],
+    [
+      "pan.baidu.com",
+      22
+    ],
+    [
+      "github.com",
+      21
+    ],
+    [
+      "pan.quark.cn",
+      12
+    ],
+    [
+      "www.aplaybox.com",
+      10
+    ],
+    [
+      "www.bilibili.com",
+      9
+    ],
+    [
+      "www.youtube.com",
+      5
+    ],
+    [
+      "www.nicovideo.jp",
+      4
+    ],
+    [
+      "animchar.com",
+      4
+    ],
+    [
+      "sourxuan.lofter.com",
+      3
+    ],
+    [
+      "www.langze.net",
+      3
+    ],
+    [
+      "youtu.be",
+      2
+    ],
+    [
+      "bowl",
+      2
+    ],
+    [
+      "seiga.nicovideo.jp",
+      2
+    ],
+    [
+      "wwcb.lanzn.com",
+      2
+    ],
+    [
+      "mikapo.vercel.app",
+      2
+    ],
+    [
+      "www.dimocap.com",
+      2
+    ],
+    [
+      "b23.tv",
+      2
+    ],
+    [
+      "wwatj.lanzoul.com",
+      2
+    ],
+    [
+      "3d.nicovideo.jp",
+      2
+    ],
+    [
+      "www.deviantart.com",
+      2
+    ],
+    [
+      "drive.uc.cn",
+      2
+    ],
+    [
+      "www.123pan.com",
+      2
+    ],
+    [
+      "modrinth.com",
+      1
+    ],
+    [
+      "blenderco.cn",
+      1
+    ],
+    [
+      "wwwk.lanzoub.com",
+      1
+    ],
+    [
+      "learnmmd.com",
+      1
+    ],
+    [
+      "www.blender.org",
+      1
+    ],
+    [
+      "bow",
+      1
+    ],
+    [
+      "xiaoffge.lanzn.com",
+      1
+    ],
+    [
+      "budeco.top",
+      1
+    ],
+    [
+      "blender.kim",
+      1
+    ],
+    [
+      "www.gfxcamp.com",
+      1
+    ],
+    [
+      "superhivemarket.com",
+      1
+    ],
+    [
+      "gumroad.com",
+      1
+    ],
+    [
+      "www.qmai.vip?code=huhu66&type=video",
+      1
+    ],
+    [
+      "obsproject.com",
+      1
+    ],
+    [
+      "huggingface.co",
+      1
+    ],
+    [
+      "create.rokoko.com",
+      1
+    ],
+    [
+      "flowus.cn",
+      1
+    ]
+  ],
+  "hidden_gems_by_fav_ratio": [
+    {
+      "bvid": "BV1qzum6sEK8",
+      "title": "blender插件在哪儿找？这5个网站让你实现插件自由！",
+      "view": 12467,
+      "favorite": 3534,
+      "fav_per_1k": 283.5,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1WAaR6rEsR",
+      "title": "【MMD动作修复】一键适配不同骨架！VMD Sizing开源免费软件｜Q版、萝莉、少女、御姐通用",
+      "view": 4080,
+      "favorite": 1105,
+      "fav_per_1k": 270.8,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV15deJ6KEET",
+      "title": "给MMD新人朋友推荐几款Blender插件（MMD相关）",
+      "view": 29204,
+      "favorite": 7394,
+      "fav_per_1k": 253.2,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1UN396fEuy",
+      "title": "超轮椅的blender MMD物理效果制作法",
+      "view": 16826,
+      "favorite": 3562,
+      "fav_per_1k": 211.7,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1BP4Q61EEt",
+      "title": "Blender之MMD追踪镜头教程",
+      "view": 19623,
+      "favorite": 4077,
+      "fav_per_1k": 207.8,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV19Nbq6vEFd",
+      "title": "【blender】MMD一键语音生成口型！免费下载！",
+      "view": 20909,
+      "favorite": 4319,
+      "fav_per_1k": 206.6,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV14oaH6xExx",
+      "title": "终末地MMD角色模型Blender渲染全流程分享",
+      "view": 16572,
+      "favorite": 3412,
+      "fav_per_1k": 205.9,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1YQeB6DEer",
+      "title": "飞霄 / The Bass【崩坏：星穹铁道MMD】",
+      "view": 32869,
+      "favorite": 6585,
+      "fav_per_1k": 200.3,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1gn3R6qEYF",
+      "title": "可能是目前最好用的卡通头发在线制作工具  Anime Hair Studio",
+      "view": 9367,
+      "favorite": 1813,
+      "fav_per_1k": 193.6,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1d28V6VEPx",
+      "title": "知更鸟◈It's Me💖",
+      "view": 20740,
+      "favorite": 3989,
+      "fav_per_1k": 192.3,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1CAhq69Eik",
+      "title": "全免费的Blender卡通渲染插件发布了！！！",
+      "view": 6227,
+      "favorite": 1190,
+      "fav_per_1k": 191.1,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1QfYs6yEX4",
+      "title": "分享一点简单的MMD剪辑经验（新手向）",
+      "view": 13258,
+      "favorite": 2387,
+      "fav_per_1k": 180.0,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV15tGG6dE8d",
+      "title": "草履虫也能会的超简单mmd渲染",
+      "view": 25958,
+      "favorite": 4585,
+      "fav_per_1k": 176.6,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1JQawzMEv5",
+      "title": "好可爱的男大 萌哭了",
+      "view": 64687,
+      "favorite": 11305,
+      "fav_per_1k": 174.8,
+      "n_tools": 21,
+      "tools": [
+        "ARonisc",
+        "AllFinalXD",
+        "Elle",
+        "P.I.P",
+        "RedialC",
+        "Rui",
+        "Wind",
+        "ikeno"
+      ]
+    },
+    {
+      "bvid": "BV1eKqTYkEA7",
+      "title": "MMD新手教程综合经典版合集",
+      "view": 31608,
+      "favorite": 5424,
+      "fav_per_1k": 171.6,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1Dae26iENj",
+      "title": "史上最好用的仿原神Festivity渲染插件",
+      "view": 6734,
+      "favorite": 1148,
+      "fav_per_1k": 170.5,
+      "n_tools": 2,
+      "tools": [
+        "AstraMorningstar",
+        "github.com"
+      ]
+    },
+    {
+      "bvid": "BV1C4bN6cEi1",
+      "title": "MMD不会打光怎么办？模型灰蒙蒙的怎么办？试试这个方法",
+      "view": 12967,
+      "favorite": 2170,
+      "fav_per_1k": 167.3,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1Mrpc6CEny",
+      "title": "Blender黑色丝袜材质节点搭建思路分享",
+      "view": 17750,
+      "favorite": 2964,
+      "fav_per_1k": 167.0,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV12xEezMEqi",
+      "title": "两分半就能学会的伪建模小人教程",
+      "view": 335085,
+      "favorite": 54573,
+      "fav_per_1k": 162.9,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1y4orBNE49",
+      "title": "【MMD教程】Patoon混Lv2 Shader【渲染配方】",
+      "view": 4553,
+      "favorite": 738,
+      "fav_per_1k": 162.1,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1YZYV62EQo",
+      "title": "全球首个从任意参考图提取角色姿势的工具，插件和API同步上线",
+      "view": 16150,
+      "favorite": 2612,
+      "fav_per_1k": 161.7,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV18JHrzTE2e",
+      "title": "油库里也能学会的blenderMMD教学？！从零开始的MMD师生活",
+      "view": 42439,
+      "favorite": 6849,
+      "fav_per_1k": 161.4,
+      "n_tools": 3,
+      "tools": [
+        "NextGiMa",
+        "blender3.6.15",
+        "mikumikudance932"
+      ]
+    },
+    {
+      "bvid": "BV17ewizXELR",
+      "title": "【Blender MMD教程】前言 教学目录",
+      "view": 16007,
+      "favorite": 2337,
+      "fav_per_1k": 146.0,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1oe8z67E7Q",
+      "title": "我能成功渲染叶瞬光吗",
+      "view": 48716,
+      "favorite": 7091,
+      "fav_per_1k": 145.6,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1rM7X6bEFJ",
+      "title": "【blender】基础三渲二教程",
+      "view": 49759,
+      "favorite": 7225,
+      "fav_per_1k": 145.2,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1A18g67EWe",
+      "title": "我游龙了！",
+      "view": 86223,
+      "favorite": 12448,
+      "fav_per_1k": 144.4,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1szkUYfEmy",
+      "title": "【新手向】认识mmd骨骼，解释IK骨、付与骨、D骨、捩骨、轴限制、local轴，为给自定义模型绑mmd骨骼做好准备",
+      "view": 23358,
+      "favorite": 3348,
+      "fav_per_1k": 143.3,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1cJ396JEAN",
+      "title": "免费开源！MMD AI视频动捕，告别手K，用视频/图片一键生成角色VMD动作，MiKaPo Desktop发布！",
+      "view": 11820,
+      "favorite": 1641,
+      "fav_per_1k": 138.8,
+      "n_tools": 0,
+      "tools": []
+    },
+    {
+      "bvid": "BV1JYAgzHEtE",
+      "title": "【MMD教程】小白也能学会的MMD渲染教程~个人邪修仿zmd渲染流程",
+      "view": 8488,
+      "favorite": 1157,
+      "fav_per_1k": 136.3,
+      "n_tools": 1,
+      "tools": [
+        "v3.2—角砂糖"
+      ]
+    },
+    {
+      "bvid": "BV17Ww8zKEGj",
+      "title": "【mmd渲染过程/教程】教你如何速成毛毛豆渲染糕手！",
+      "view": 13077,
+      "favorite": 1781,
+      "fav_per_1k": 136.2,
+      "n_tools": 0,
+      "tools": []
+    }
+  ]
+}

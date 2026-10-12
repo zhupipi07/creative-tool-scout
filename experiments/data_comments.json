@@ -1,0 +1,64 @@
+{
+  "baseline_desc_rate_all": 9.98,
+  "sample": 120,
+  "ok": 120,
+  "errors": {},
+  "desc_rate_in_sample": 1.67,
+  "union_rate": 1.67,
+  "lift_pp": 0.0,
+  "desc_only": 2,
+  "comment_only": 0,
+  "both": 0,
+  "neither": 118,
+  "videos_with_url_in_comments": 22,
+  "tools_desc": 55,
+  "tools_comment": 0,
+  "comment_exclusive_tools": [],
+  "comment_domains": [
+    [
+      "b23.tv",
+      13
+    ],
+    [
+      "pan.baidu.com",
+      11
+    ],
+    [
+      "github.com",
+      5
+    ],
+    [
+      "www.bilibili.com",
+      5
+    ],
+    [
+      "pan.quark.cn",
+      3
+    ],
+    [
+      "vroid.com",
+      2
+    ],
+    [
+      "www.jianshu.com",
+      2
+    ],
+    [
+      "learnmmd.com",
+      2
+    ],
+    [
+      "www.blender.org",
+      2
+    ],
+    [
+      "删pan除.baidu我.com",
+      2
+    ],
+    [
+      "mirrors.tuna.tsinghua.edu.cn",
+      1
+    ]
+  ],
+  "examples": []
+}
